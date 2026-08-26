@@ -15,11 +15,11 @@ instead of hand-writing UI.
   teams, `get_usage`, `generate`, and edit/delete for components/themes/
   templates. Metadata search is free; component code, generation and writes
   are metered.
-- **Skills** — four focused skills that teach the `21st` CLI, auto-activating
+- **Skills** — seven focused skills that teach the `21st` CLI, auto-activating
   when the project has a `components.json`: `21st-cli-use` (search/get/add),
   `21st-ai` (generate/iterate/grab-code with 21st AI), `21st-registry` (publish
   & manage), and `21st-design-sync` (publish the project's design tokens as a
-  theme).
+  theme), plus project-aware Build, Explore, and Review workflows.
 
 ## Install
 

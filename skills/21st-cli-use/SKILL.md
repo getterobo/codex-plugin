@@ -116,6 +116,6 @@ Opens a preview; from there you edit any variant and pull its code. See the
 21st team <teamId>                  # a team's libraries
 21st team-components <teamId> [--library <id>]
 
-21st init --client cursor|claude|codex|vscode|windsurf [--write]   # write MCP config
+21st init --client cursor|claude|codex|vscode|devin [--write]      # write MCP config
 21st install-skill                  # install the 21st skills globally
 ```
