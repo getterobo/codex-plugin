@@ -1,6 +1,6 @@
 {
   "name": "21st",
-  "description": "Search, install and publish React/shadcn components, themes and templates on 21st.dev from your agent. Bundles the 21st.dev skills (21st-cli-use, 21st-ai, 21st-registry, 21st-design-sync) and wires up the remote 21st MCP server.",
+  "description": "Find, generate, build, explore, review, and publish project-aware UI with seven verified 21st.dev skills plus the remote 21st MCP server.",
   "version": "0.4.0",
   "author": {
     "name": "21st.dev",
